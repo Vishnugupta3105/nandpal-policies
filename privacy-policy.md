@@ -74,7 +74,7 @@ We may update this policy. Changes will be posted in the app and on this page.
 ## Contact Us
 
 For privacy concerns or data requests:
-- Email: support@nandpal.app
+- Email: nandpal3105@gmail.com
 - In-app: Settings > Help & Support
 
 ---
